@@ -1,2 +1,3 @@
-# BukkitSqlClient
-Simple plugin for testing Sql connection availability in Bukkit
+# BukkitTestPlugins
+
+A collection of very slim JavaPlugins for testing various aspects of a Bukkit installation.
